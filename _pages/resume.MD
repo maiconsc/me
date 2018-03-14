@@ -5,8 +5,7 @@ permalink: /resume/
 ---
 
 # Resumé
-{: .text-justify} 
-<hr>
+{: .text-justify}
 
 Clich [here](/resume/) for a full resumé in PDF. If you are interested in my papers, check the [publications](/publications/) tab.
 {: .text-justify} 
