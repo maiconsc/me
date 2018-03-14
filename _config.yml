@@ -13,7 +13,7 @@ title                    : "Maicon. S Cardoso"
 title_separator          : "|"
 name                     : "Maicon S. Cardoso"
 description              : "This is the personal website of Maicon S. Cardoso."
-url                      : "https://maiconsc.github.io"
+url                      : 
 baseurl                  : "/personalsite"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
