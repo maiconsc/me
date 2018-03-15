@@ -4,13 +4,13 @@ author_profile: true
 permalink: /resume/
 ---
 
-## Resumé
+# Resumé
 {: .text-justify}
 
-Clich [here](/resume/) for a full resumé in PDF. If you are interested in my papers, check the [publications](/publications/) tab.
+Clich [here](/resume/) foraaa a full resumé in PDF. If you are interested in my papers, check the [publications](/publications/) tab.
 {: .text-justify} 
 
-### Education
+## Education
 * **Federal University of Pelotas (UFPel), Pelotas, Brazil.** 
 Doctor of Philosophy (Ph.D.), Computer Science.
 2017 - Present.
@@ -41,7 +41,7 @@ Technical, Electronics.
 
 ^
 
-### Experience
+## Experience
 * **Ph.D. Student Researcher.**<br/>
 Federal University of Pelotas (UFPel), Pelotas, Brazil.
 Group of Architecture and Integrated Circuits (GACI).
@@ -73,6 +73,6 @@ UFPel Computer Science and Computer Engineering Laboratories.
 
 ^
 
-### Languages
+## Languages
 * Portuguese (native), english.
 {: .text-justify} 
