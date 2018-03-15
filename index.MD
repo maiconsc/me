@@ -3,6 +3,11 @@ layout: single
 author_profile: true
 ---
 
+# About me
+{: .text-justify}
+
+<hr>
+
 I received the M.Sc. and B.Sc. degrees in Computer Science from the [Federal University of Pelotas](ufpel.edu.br) (UFPel) in 2017 and 2014, respectively. Besides that, I conclude my B.Eng. in Electrical Engineering from the [Federal Institute Sul-rio-grandense](ifsul.edu.br) (IFSul) in 2018. I'm also a technician in Electronics from the Federal Institute Sul-rio-grandense since 2009. 
 {: .text-justify} 
 

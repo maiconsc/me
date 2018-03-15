@@ -4,6 +4,11 @@ author_profile: true
 permalink: /publications/
 ---
 
+# Publications
+{: .text-justify}
+
+<hr>
+
 In this section you'll find my main papers published. Click [here](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3) if you want the full list of publications (portuguese and english), [here](scholar.google.com) for my Google Scholar page or check out my curriculum vitae in [resume](/resume/) tab.
 {: .text-justify} 
 
