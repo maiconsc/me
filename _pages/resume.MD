@@ -9,7 +9,7 @@ permalink: /resume/
 
 <hr>
 
-Clich [here](/resume/) for aa full resumé in PDF. If you are interested in my papers, check the [publications](/publications/) tab.
+Clich [here](/resume/) for a full resumé in PDF. If you are interested in my papers, check the [publications](/publications/) tab.
 {: .text-justify} 
 
 ## Education
