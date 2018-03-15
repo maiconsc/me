@@ -4,7 +4,7 @@ author_profile: true
 permalink: /resume/
 ---
 
-# Resumé
+Resumé
 {: .text-justify}
 
 Clich [here](/resume/) for a full resumé in PDF. If you are interested in my papers, check the [publications](/publications/) tab.
