@@ -8,8 +8,8 @@
 minimal_mistakes_skin    : default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "pt-BR"
-title                    : "Maicon. S Cardoso"
+locale                   : "en-US"
+title                    : "Maicon S. Cardoso"
 title_separator          : "|"
 name                     : "Maicon S. Cardoso"
 description              : "This is the personal website of Maicon S. Cardoso."
@@ -96,9 +96,7 @@ author:
   location         : "Pelotas, Brazil"
   email            : "mscardoso@inf.ufpel.edu.br"
   facebook         : "maiconscardoso"
-  github           : "not yet"
   instagram        : "maicon.scardoso"
-  linkedin         : "maiconscardoso"
   twitter          : "maiconsc"
   # uri              : "http://your-site.com"
 

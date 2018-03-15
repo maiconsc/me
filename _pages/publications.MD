@@ -9,7 +9,7 @@ permalink: /publications/
 
 <hr>
 
-In this section you'll find my main papers published. Click [here](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3) if you want the full list of publications (portuguese and english), [here](scholar.google.com) for my Google Scholar page or check out my curriculum vitae in [resume](/resume/) tab.
+In this section you'll find my main papers published. Click [here](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3) if you want the full list of publications (portuguese and english), [here](https://scholar.google.com) for my Google Scholar page or check out my curriculum vitae in [resume](/resume/) tab.
 {: .text-justify} 
 
 ## 2017
@@ -35,4 +35,4 @@ In this section you'll find my main papers published. Click [here](http://buscat
 
 ## 2015
 {: .text-justify} 
-* Cardoso, M., Smaniotto, Rosa Jr., L. and Marques, F. **Evaluating Geometric Aspects of Non-Series-Parallel Cells.** In: Proceedings of the 28th Symposium on Integrated Circuits and Systems Design (28th SBCCI), 2015, Salvador. [Link](http://dx.doi.org/10.1145/2800986.2801008).
+* Cardoso, M., Rosa Jr., L. and Marques, F. **Evaluating Geometric Aspects of Non-Series-Parallel Cells.** In: Proceedings of the 28th Symposium on Integrated Circuits and Systems Design (28th SBCCI), 2015, Salvador. [Link](http://dx.doi.org/10.1145/2800986.2801008).
