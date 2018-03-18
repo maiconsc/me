@@ -58,7 +58,7 @@
 
       {% if author.email %}
         <li>
-          <a href="mailto:{{ author.email }}">
+          <a href="mailto:{{ author.email }}" target="_blank">
             <meta itemprop="email" content="{{ author.email }}" />
             <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
           </a>
@@ -66,19 +66,19 @@
       {% endif %}
 
       <li>
-        <a href="http://lattes.cnpq.br/6220588612245339">
+        <a href="http://lattes.cnpq.br/6220588612245339" target="_blank">
           <i class="fas fa-fw fa-link" aria-hidden="true"></i> Lattes
         </a>
       </li>
 
       <li>
-        <a href="https://scholar.google.com.br/citations?user=J_F5eSsAAAAJ&hl">
+        <a href="https://scholar.google.com.br/citations?user=J_F5eSsAAAAJ&hl" target="_blank">
           <i class="fas fa-fw fa-link" aria-hidden="true"></i> Google Scholar
         </a>
       </li>
 
       <li>
-        <a href="https://researchgate.net/profile/Maicon_Cardoso">
+        <a href="https://researchgate.net/profile/Maicon_Cardoso" target="_blank">
           <i class="fas fa-fw fa-link" aria-hidden="true"></i> ResearchGate
         </a>
       </li>
@@ -93,7 +93,7 @@
 
       {% if author.twitter %}
         <li>
-          <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
+          <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs" target="_blank">
             <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
           </a>
         </li>
@@ -101,7 +101,7 @@
 
       {% if author.facebook %}
         <li>
-          <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs">
+          <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs" target="_blank">
             <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
           </a>
         </li>
@@ -133,7 +133,7 @@
 
       {% if author.instagram %}
         <li>
-          <a href="https://instagram.com/{{ author.instagram }}" itemprop="sameAs">
+          <a href="https://instagram.com/{{ author.instagram }}" itemprop="sameAs" target="_blank">
             <i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram
           </a>
         </li>
@@ -276,7 +276,7 @@
       {% endif %}
 
       <li>
-        <a href="https://goodreads.com/maiconsc">
+        <a href="https://goodreads.com/maiconsc" target="_blank">
           <i class="fab fa-fw fa-goodreads-g" aria-hidden="true"></i> Goodreads
         </a>
       </li>
