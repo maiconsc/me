@@ -46,19 +46,19 @@ Technical, Electronics.\\
 ## Experience
 * **Ph.D. Student Researcher.**\\
 Federal University of Pelotas (UFPel), Pelotas, Brazil.\\
-Group of Architecture and Integrated Circuits (GACI).\\
+Group of Architectures and Integrated Circuits (GACI).\\
 2017 - Present.
 {: .text-justify} 
 
 * **M.Sc. Student Researcher.**\\
 Federal University of Pelotas (UFPel), Pelotas, Brazil.\\
-Group of Architecture and Integrated Circuits (GACI).\\
+Group of Architectures and Integrated Circuits (GACI).\\
 2015 - 2017.
 {: .text-justify} 
 
 * **Undergraduate Researcher.**\\
 Federal University of Pelotas (UFPel), Pelotas, Brazil.\\
-Group of Architecture and Integrated Circuits (GACI).\\
+Group of Architectures and Integrated Circuits (GACI).\\
 2013 - 2014.
 {: .text-justify} 
 
