@@ -59,14 +59,14 @@ $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
 $muted-text-color: mix(#fff, $text-color, 35%) !default;
 $border-color: $lighter-gray !default;
-$form-background-color: $lighter-gray !default;
+$form-background-color: #f7f7f7 !default;
 $footer-background-color: $lighter-gray !default;
 
 $primary-color: #7a8288 !default;
 $success-color: #62c462 !default;
 $warning-color: #f89406 !default;
 $danger-color: #ee5f5b !default;
-$info-color: #52adc8 !default;
+$info-color: #494e52 !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
