@@ -9,28 +9,36 @@ permalink: /publications/
 
 <hr>
 
-In this section you'll find my main papers published. Click [here](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3){:target="\_blank"} if you want the full list of publications (portuguese and english), [here](https://scholar.google.com.br/citations?user=J_F5eSsAAAAJ&hl){:target="\_blank"} for my Google Scholar page or check out my curriculum vitae in [resume](/resume/) tab.
+This section presents the papers published by me. Click [here](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3){:target="\_blank"} if you want the full publication list (Portuguese and English), [here](https://scholar.google.com.br/citations?user=J_F5eSsAAAAJ&hl){:target="\_blank"} for my profile in Google Scholar or take a look at my curriculum vitae located in the [resume](/resume/) tab.
+{: .text-justify} 
+
+## 2018
+{: .text-justify} 
+* Cardoso, M., Smaniotto, G., Bubolz, A., Moreira, M., Rosa Jr., L. and Marques, F. **Libra: an Automatic Design Methodology for CMOS Complex Gates.** IEEE Transactions on Circuits and Systems II-Express Briefs, v. 65, 2018. [Link](http://dx.doi.org/10.1109/tcsii.2018.2866231){:target="\_blank"}.
+{: .text-justify} 
+
+* Cardoso, M., Smaniotto, G., Bubolz, A., Rosa Jr., L. and Marques, F. **Area-Aware Design of Static CMOS Complex Gates.** In: Proceedings of the 16th IEEE International New Circuits and Systems COnference (16th IEEE NEWCAS), 2018, Montreal. [Link](http://dx.doi.org/10.1109/NEWCAS.2018.8585570){:target="\_blank"}.
 {: .text-justify} 
 
 ## 2017
 {: .text-justify} 
-* Smaniotto, G., Zanandrea, R., Cardoso, M., Souza, R., Moreira, M., Marques, F. and Rosa Jr., L. **A post-processing methodology to improve the automatic design of CMOS gates at layout-level.** In: Proceedings of the IEEE 24th International Conference on Electronics, Circuits and Systems (ICECS) (24th IEEE ICECS), 2017, Batumi. [Link](http://dx.doi.org/10.1109/icecs.2017.8292073){:target="\_blank"}.
+* Smaniotto, G., Zanandrea, R., Cardoso, M., Souza, R., Moreira, M., Marques, F. and Rosa Jr., L. **A post-processing methodology to improve the automatic design of CMOS gates at layout-level.** In: Proceedings of the 24th IEEE International Conference on Electronics, Circuits and Systems (ICECS) (24th IEEE ICECS), 2017, Batumi. [Link](http://dx.doi.org/10.1109/icecs.2017.8292073){:target="\_blank"}.
 {: .text-justify} 
 
 * Ávila, C., Cavalheiro, S., Bordini, A., Marques, M., Cardoso, M. and Feijó, G. **Metodologias de avaliação do Pensamento Computacional: uma revisão sistemática.** In: Proceedings of the XXVIII Brazilian Symposium on Informatics in Education (XVIII SBIE), 2017, Recife. [Link](http://dx.doi.org/10.5753/cbie.sbie.2017.113){:target="\_blank"} (paper in portuguese).
 {: .text-justify} 
 
-* Cardoso, M., Smaniotto, G., Machado, J., Moreira, M., Rosa Jr., L. and Marques, F. **Transistor Placement Strategies for Non-Series-Parallel Cells.** In: Proceedings of the IEEE 60th International Midwest Symposium on Circuits and Systems (60th IEEE MWSCAS), 2017, Boston. [Link](http://dx.doi.org/10.1109/MWSCAS.2017.8052975){:target="\_blank"}.
+* Cardoso, M., Smaniotto, G., Machado, J., Moreira, M., Rosa Jr., L. and Marques, F. **Transistor Placement Strategies for Non-Series-Parallel Cells.** In: Proceedings of the 60th IEEE International Midwest Symposium on Circuits and Systems (60th IEEE MWSCAS), 2017, Boston. [Link](http://dx.doi.org/10.1109/MWSCAS.2017.8052975){:target="\_blank"}.
 {: .text-justify} 
 
-* Smaniotto, G., Zanandrea, R., Cardoso, M., Souza, R., Moreira, M., Marques, F. and Rosa Jr., L. **Post-Processing of Supergate Networks Aiming Cell Layout Optimization.** In: Proceedings of the IEEE 50th International Symposium of Circuits and Systems (50th IEEE ISCAS), 2017, Baltimore. [Link](http://dx.doi.org/10.1109/iscas.2017.8050570){:target="\_blank"}.
+* Smaniotto, G., Zanandrea, R., Cardoso, M., Souza, R., Moreira, M., Marques, F. and Rosa Jr., L. **Post-Processing of Supergate Networks Aiming Cell Layout Optimization.** In: Proceedings of the 50th IEEE International Symposium of Circuits and Systems (50th IEEE ISCAS), 2017, Baltimore. [Link](http://dx.doi.org/10.1109/iscas.2017.8050570){:target="\_blank"}.
 {: .text-justify} 
 
 ## 2016
 {: .text-justify} 
-* Cardoso, M., Smaniotto, G., Zanandrea, R., Souza, R., Rosa Jr., L. and Marques, F. **Physical Design of Supergate Cells Aiming Geometrical Optimizations.** In: Proceedings of the IEEE 59th International Midwest Symposium on Circuits and Systems (59th IEEE MWSCAS), 2016, Abu Dhabi. [Link](http://dx.doi.org/10.1109/MWSCAS.2016.7870091){:target="\_blank"}.
+* Cardoso, M., Smaniotto, G., Zanandrea, R., Souza, R., Rosa Jr., L. and Marques, F. **Physical Design of Supergate Cells Aiming Geometrical Optimizations.** In: Proceedings of the 59th IEEE International Midwest Symposium on Circuits and Systems (59th IEEE MWSCAS), 2016, Abu Dhabi. [Link](http://dx.doi.org/10.1109/MWSCAS.2016.7870091){:target="\_blank"}.
 
-* Cardoso, M., Zanandrea, R., Souza, R., Machado, J., Rosa Jr., L. and Marques, F. **Topological Characteristics of Logic Networks Generated by a Graph-based Methodology.** In: Proceedings of the IEEE 7th Latin American Symposium on Circuits & Systems (7th IEEE LASCAS), 2016, Florianópolis. [Link](http://dx.doi.org/10.1109/lascas.2016.7451080){:target="\_blank"}.
+* Cardoso, M., Zanandrea, R., Souza, R., Machado, J., Rosa Jr., L. and Marques, F. **Topological Characteristics of Logic Networks Generated by a Graph-based Methodology.** In: Proceedings of the 7th IEEE Latin American Symposium on Circuits & Systems (7th IEEE LASCAS), 2016, Florianópolis. [Link](http://dx.doi.org/10.1109/lascas.2016.7451080){:target="\_blank"}.
 {: .text-justify} 
 
 ## 2015

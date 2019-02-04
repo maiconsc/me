@@ -9,13 +9,13 @@ permalink: /resume/
 
 <hr>
 
-Clich [here](/assets/cv/curriculumvitae.pdf/){:target="\_blank"} for a full resumé in PDF. If you are interested in my papers, check the [publications](/publications/) tab.
+Clich [here](/assets/cv/curriculumvitae.pdf/){:target="\_blank"} for a full resumé in PDF. If you are interested in my papers, check out the [publications](/publications/) tab.
 {: .text-justify} 
 
 ## Education
 * **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
 Doctor of Philosophy (Ph.D.), Computer Science.\\
-2017 - Present.
+2017 - present.
 {: .text-justify} 
 
 * **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
@@ -47,7 +47,7 @@ Technical, Electronics.\\
 * **Ph.D. Student Researcher.**\\
 Federal University of Pelotas (UFPel), Pelotas, Brazil.\\
 Group of Architectures and Integrated Circuits (GACI).\\
-2017 - Present.
+2017 - present.
 {: .text-justify} 
 
 * **M.Sc. Student Researcher.**\\
