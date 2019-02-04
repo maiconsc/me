@@ -95,9 +95,9 @@ author:
   bio              : "M.Sc. in Computer Science and B.Eng. in Electrical Engineering. Pursuing the Ph.D. degree in Computer Science." 
   location         : "Pelotas, Brazil"
   email            : "mscardoso@inf.ufpel.edu.br"
-  facebook         : "maiconscardoso"
+  # facebook         : "maiconscardoso"
   instagram        : "maicon.scardoso"
-  twitter          : "maiconsc"
+  # twitter          : "maiconsc"
   # uri              : "http://your-site.com"
 
 
