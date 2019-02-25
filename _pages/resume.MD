@@ -9,7 +9,7 @@ permalink: /resume/
 
 <hr>
 
-Clich [here](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3&idiomaExibicao=2){:target="\_blank"} for a full resumé (also available in [portuguese](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3){:target="\_blank"}). If you are interested in my papers, check out the [publications](/publications/) tab.
+This section contains a brief summary of my formal education and experiences. If you are interested in my papers, check out the [publications](/publications/) tab.
 {: .text-justify} 
 
 ## Education

@@ -9,7 +9,7 @@ permalink: /publications/
 
 <hr>
 
-This section presents the papers published by me. Click [here](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3){:target="\_blank"} if you want the full publication list (Portuguese and English), [here](https://scholar.google.com.br/citations?user=J_F5eSsAAAAJ&hl){:target="\_blank"} for my profile in Google Scholar or take a look at my curriculum vitae located in the [resume](/resume/) tab.
+This section presents the papers published by me. Click [here](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3&idiomaExibicao=2){:target="\_blank"} if you want the full publication list (also available in [portuguese](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3){:target="\_blank"}), [here](https://scholar.google.com.br/citations?user=J_F5eSsAAAAJ&hl){:target="\_blank"} for my profile in Google Scholar or take a look in the [resumé](/resume/) tab.
 {: .text-justify} 
 
 ## 2018
