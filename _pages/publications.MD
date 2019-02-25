@@ -17,7 +17,7 @@ This section presents the papers published by me. Click [here](http://buscatextu
 * Cardoso, M., Smaniotto, G., Bubolz, A., Moreira, M., Rosa Jr., L. and Marques, F. **Libra: an Automatic Design Methodology for CMOS Complex Gates.** IEEE Transactions on Circuits and Systems II-Express Briefs, v. 65, 2018. [Link](http://dx.doi.org/10.1109/tcsii.2018.2866231){:target="\_blank"}.
 {: .text-justify} 
 
-* Cardoso, M., Smaniotto, G., Bubolz, A., Rosa Jr., L. and Marques, F. **Area-Aware Design of Static CMOS Complex Gates.** In: Proceedings of the 16th IEEE International New Circuits and Systems COnference (16th IEEE NEWCAS), 2018, Montreal. [Link](http://dx.doi.org/10.1109/NEWCAS.2018.8585570){:target="\_blank"}.
+* Cardoso, M., Smaniotto, G., Bubolz, A., Rosa Jr., L. and Marques, F. **Area-Aware Design of Static CMOS Complex Gates.** In: Proceedings of the 16th IEEE International New Circuits and Systems Conference (16th IEEE NEWCAS), 2018, Montreal. [Link](http://dx.doi.org/10.1109/NEWCAS.2018.8585570){:target="\_blank"}.
 {: .text-justify} 
 
 ## 2017

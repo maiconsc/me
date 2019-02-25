@@ -14,7 +14,7 @@ I received the M.Sc. and B.Sc. degrees in Computer Science from the [Federal Uni
 Currently, I am pursuing the Ph.D. degree in Computer Science from the Federal University of Pelotas acting as a doctoral student researcher at the [Group of Architectures and Integrated Circuits](https://wp.ufpel.edu.br/gaci/){:target="\_blank"} (GACI). My main interests include the physical synthesis of VLSI circuits and the algorithmic development for Electronic Design Automation (EDA) tools in emerging and traditional technologies. 
 {: .text-justify}
 
-This website contains a brief resume (formal education, experience, and publications) and some ways to contact me. 
+This website contains a brief resumé (formal education, experience, and publications) and some ways to contact me. 
 
 Be welcome and feel free to navigate.
 {: .text-justify}
