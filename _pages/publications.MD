@@ -9,7 +9,7 @@ permalink: /publications/
 
 <hr>
 
-This section presents the papers published by Mr. Cardoso. Click [here](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3&idiomaExibicao=2){:target="\_blank"} if you want the full publication list (also available in [portuguese](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3){:target="\_blank"}), [here](https://scholar.google.com.br/citations?user=J_F5eSsAAAAJ&hl){:target="\_blank"} for his profile in Google Scholar or take a look in the [resumé](/resume/) tab.
+This section presents the papers published by Mr. Cardoso. Click [here](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3&idiomaExibicao=2){:target="\_blank"} if you want the full publication list (also available in [Portuguese](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3){:target="\_blank"}), [here](https://scholar.google.com.br/citations?user=J_F5eSsAAAAJ&hl){:target="\_blank"} for his profile in Google Scholar or take a look in the [resumé](/resume/) tab.
 {: .text-justify} 
 
 ## 2020
@@ -30,7 +30,7 @@ This section presents the papers published by Mr. Cardoso. Click [here](http://b
 * Smaniotto, G., Zanandrea, R., Cardoso, M., Souza, R., Moreira, M., Marques, F. and Rosa Jr., L. **A post-processing methodology to improve the automatic design of CMOS gates at layout-level.** In: Proceedings of the 24th IEEE International Conference on Electronics, Circuits and Systems (ICECS) (24th IEEE ICECS), 2017, Batumi. [Link](http://dx.doi.org/10.1109/icecs.2017.8292073){:target="\_blank"}.
 {: .text-justify} 
 
-* Ávila, C., Cavalheiro, S., Bordini, A., Marques, M., Cardoso, M. and Feijó, G. **Metodologias de avaliação do Pensamento Computacional: uma revisão sistemática.** In: Proceedings of the XXVIII Brazilian Symposium on Informatics in Education (XVIII SBIE), 2017, Recife. [Link](http://dx.doi.org/10.5753/cbie.sbie.2017.113){:target="\_blank"} (paper in portuguese).
+* Ávila, C., Cavalheiro, S., Bordini, A., Marques, M., Cardoso, M. and Feijó, G. **Metodologias de avaliação do Pensamento Computacional: uma revisão sistemática.** In: Proceedings of the XXVIII Brazilian Symposium on Informatics in Education (XVIII SBIE), 2017, Recife. [Link](http://dx.doi.org/10.5753/cbie.sbie.2017.113){:target="\_blank"} (paper in Portuguese).
 {: .text-justify} 
 
 * Cardoso, M., Smaniotto, G., Machado, J., Moreira, M., Rosa Jr., L. and Marques, F. **Transistor Placement Strategies for Non-Series-Parallel Cells.** In: Proceedings of the 60th IEEE International Midwest Symposium on Circuits and Systems (60th IEEE MWSCAS), 2017, Boston. [Link](http://dx.doi.org/10.1109/MWSCAS.2017.8052975){:target="\_blank"}.
