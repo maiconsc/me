@@ -83,5 +83,5 @@ UFPel Computer Science and Computer Engineering Laboratories.\\
 ^
 
 ## Languages
-* Portuguese (native), English, Spanish (Castilian), and Catalan (begginer).
+* Portuguese (native), English, Spanish (Castilian), and Catalan (beginner).
 {: .text-justify} 
