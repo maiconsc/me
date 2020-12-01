@@ -9,9 +9,6 @@ permalink: /resume/
 
 <hr>
 
-This section contains a brief summary of my formal education and experiences. If you are interested in my papers, check out the [publications](/publications/) tab.
-{: .text-justify} 
-
 ## Education
 * **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
 Doctor of Philosophy (Ph.D.), Computer Science.\\
