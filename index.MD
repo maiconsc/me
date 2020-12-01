@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-# About me
+# Home
 {: .text-justify}
 
 <hr>
