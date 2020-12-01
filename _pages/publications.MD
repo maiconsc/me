@@ -9,7 +9,12 @@ permalink: /publications/
 
 <hr>
 
-This section presents the papers published by me. Click [here](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3&idiomaExibicao=2){:target="\_blank"} if you want the full publication list (also available in [portuguese](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3){:target="\_blank"}), [here](https://scholar.google.com.br/citations?user=J_F5eSsAAAAJ&hl){:target="\_blank"} for my profile in Google Scholar or take a look in the [resumé](/resume/) tab.
+This section presents the papers published by Mr. Cardoso. Click [here](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3&idiomaExibicao=2){:target="\_blank"} if you want the full publication list (also available in [portuguese](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3){:target="\_blank"}), [here](https://scholar.google.com.br/citations?user=J_F5eSsAAAAJ&hl){:target="\_blank"} for his profile in Google Scholar or take a look in the [resumé](/resume/) tab.
+{: .text-justify} 
+
+## 2020
+{: .text-justify} 
+* Cardoso, M., Bubolz, A., Cortadella, J., Rosa Jr., L. and Marques, F. **Transistor Placement for Automatic Cell Synthesis through Boolean Satisfiability.** In: Proceedings of the 53th IEEE International Symposium of Circuits and Systems (53th IEEE ISCAS), 2020, Seville. [Link](https://doi.org/10.1109/ISCAS45731.2020.9181137){:target="\_blank"}.
 {: .text-justify} 
 
 ## 2018
