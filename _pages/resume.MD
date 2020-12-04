@@ -13,27 +13,27 @@ permalink: /resume/
 * **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
 Doctor of Philosophy (Ph.D.), Computer Science.\\
 2017 - present.\\
-Advisor: Prof. Felipe Souza Marques.
+Advisor: Prof. Felipe Marques.
 {: .text-justify} 
 
 * **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
 Master of Science (M.Sc.), Computer Science.\\
 2015 - 2017.\\
-Advisor: Prof. Felipe Souza Marques.\\
+Advisor: Prof. Felipe Marques.\\
 Master thesis: Design and Evaluation of Complex Logic Gates Without Topological Constraints (in Portuguese: "Projeto e Avaliação de Portas Lógicas Complexas sem Restrições Topológicas").
 {: .text-justify} 
 
 * **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
 Bachelor of Science (B.Sc.), Computer Science.\\
 2009 - 2014.\\
-Advisor: Prof. Felipe Souza Marques.\\
+Advisor: Prof. Felipe Marques.\\
 Final project: Placement and Routing of Non-Series-Parallel Transistor Networks (in Portuguese: "Posicionamento e Roteamento de Redes de Transistores Não-Série-Paralelo").
 {: .text-justify} 
 
 * **Federal Institute Sul-rio-grandense (IFSul), Pelotas, Brazil.**\\
 Bachelor of Engineering (B.Eng.), Electrical Engineering.\\
 2009 - 2018.\\
-Advisor: Prof. Júlio César Mesquita Ruzicki.\\
+Advisor: Prof. Júlio César Ruzicki.\\
 Final project: Libra: a Methodology for the Automatic Design of SCCGs (in Portuguese: "Libra: uma Metodologia de Desenvolvimento Automático de SCCGs").
 {: .text-justify} 
 
@@ -52,7 +52,7 @@ Group of Architectures and Integrated Circuits (GACI).\\
 {: .text-justify} 
 
 * **Ph.D. Visiting Research Scholar.**\\
-Polytechnic University of Catalonia, Barcelona, Spain.\\
+Polytechnic University of Catalonia (UPC), Barcelona, Spain.\\
 Supervisor: Prof. Jordi Cortadella.\\
 2019 - 2020.
 {: .text-justify} 
