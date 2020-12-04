@@ -20,21 +20,21 @@ Advisor: Prof. Felipe Souza Marques.
 Master of Science (M.Sc.), Computer Science.\\
 2015 - 2017.\\
 Advisor: Prof. Felipe Souza Marques.\\
-Master thesis: Design and Evaluation of Complex Logic Gates Without Topological Constraints (in portuguese: "Projeto e Avaliação de Portas Lógicas Complexas sem Restrições Topológicas").
+Master thesis: Design and Evaluation of Complex Logic Gates Without Topological Constraints (in Portuguese: "Projeto e Avaliação de Portas Lógicas Complexas sem Restrições Topológicas").
 {: .text-justify} 
 
 * **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
 Bachelor of Science (B.Sc.), Computer Science.\\
 2009 - 2014.\\
 Advisor: Prof. Felipe Souza Marques.\\
-Final project: Placement and Routing of Non-Series-Parallel Transistor Networks (in portuguese: "Posicionamento e Roteamento de Redes de Transistores Não-Série-Paralelo").
+Final project: Placement and Routing of Non-Series-Parallel Transistor Networks (in Portuguese: "Posicionamento e Roteamento de Redes de Transistores Não-Série-Paralelo").
 {: .text-justify} 
 
 * **Federal Institute Sul-rio-grandense (IFSul), Pelotas, Brazil.**\\
 Bachelor of Engineering (B.Eng.), Electrical Engineering.\\
 2009 - 2018.\\
 Advisor: Prof. Júlio César Mesquita Ruzicki.\\
-Final project: Libra: a Methodology for the Automatic Design of SCCGs (in portuguese: "Libra: uma Metodologia de Desenvolvimento Automático de SCCGs").
+Final project: Libra: a Methodology for the Automatic Design of SCCGs (in Portuguese: "Libra: uma Metodologia de Desenvolvimento Automático de SCCGs").
 {: .text-justify} 
 
 * **Federal Institute Sul-rio-grandense (IFSul), Pelotas, Brazil.**\\
