@@ -9,7 +9,7 @@ permalink: /publications/
 
 <hr>
 
-This section presents the papers published by Mr. Cardoso. Click [here](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3&idiomaExibicao=2){:target="\_blank"} if you want the full publication list (also available in [Portuguese](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3){:target="\_blank"}), [here](https://scholar.google.com.br/citations?user=J_F5eSsAAAAJ&hl){:target="\_blank"} for his profile in Google Scholar, or take a look in the [resumé](/resume/) tab.
+Full publication list [here](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8755733D3&idiomaExibicao=2){:target="\_blank"} (resumé in Portuguese).
 {: .text-justify} 
 
 ## 2020
