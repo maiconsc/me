@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Maicon S. Cardoso"
-  avatar           : "/assets/images/profilepic.jpg"
+  avatar           : "/assets/images/profilepic.jpeg"
   bio              : "M.Sc. in Computer Science and B.Eng. in Electrical Engineering. Pursuing the Ph.D. degree in Computer Science." 
   location         : "Pelotas, Brazil"
   email            : "mscardoso@inf.ufpel.edu.br"
